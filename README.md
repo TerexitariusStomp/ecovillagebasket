@@ -1,5 +1,8 @@
 # ecovillagebasket
-An example of how a basket of ecovillage tokens could be created.This implementation relies on the codebases of Charged Particles and Opensea, it's a no code solution for creating such baskee assets. 
+An example of how a basket of ecovillage tokens could be created.This implementation relies on the codebases of Charged Particles and Opensea, it's a no code solution for creating such basket assets. 
+
+Watch Video
+https://www.youtube.com/watch?v=24_ZMtU2RMQ
 
 **1st Step**
 [Create an NFT on Charged Particles.](https://docs.charged.fi/getting-started/quick-start)
@@ -33,5 +36,11 @@ https://www.fractalvisions.xyz/
 **Opensea**
 ![image](https://hackmd.io/_uploads/HkeFH2PS0.png)
 [Link](https://opensea.io/assets/matic/0x59dde2ebe605cd75365f387fffe82e5203b8e4cd/658)
+
+**What was created during the hackathon?**
+Steps above were followed to create the example NFT above. 
+
+[Deployed link.](https://polygonscan.com/nft/0x59dde2EBe605cD75365F387FFFE82E5203b8E4cd/658)
+
 
 
